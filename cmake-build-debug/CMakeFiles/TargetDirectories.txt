@@ -1,0 +1,3 @@
+/Users/citygirls/Downloads/Week7-Inclass-Project--Codes/Week8-Inclass-Project--Codes/cmake-build-debug/CMakeFiles/Week8_Inclass_Project__Codes.dir
+/Users/citygirls/Downloads/Week7-Inclass-Project--Codes/Week8-Inclass-Project--Codes/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/citygirls/Downloads/Week7-Inclass-Project--Codes/Week8-Inclass-Project--Codes/cmake-build-debug/CMakeFiles/rebuild_cache.dir

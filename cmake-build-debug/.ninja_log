@@ -1,0 +1,7 @@
+# ninja log v5
+221	403	1715798175672462538	build.ninja	c1b0fdf4a379e11e
+0	1142	1715798176824988954	CMakeFiles/Week8_Inclass_Project__Codes.dir/main.cpp.o	b8266cc9a73e9269
+1	1146	1715798176825406913	CMakeFiles/Week8_Inclass_Project__Codes.dir/Assets.cpp.o	b12cbae86ffe6c3f
+1146	1267	1715798176957560746	Week8_Inclass_Project__Codes	1474d023554afb88
+3	1211	1715798319092199496	CMakeFiles/Week8_Inclass_Project__Codes.dir/main.cpp.o	b8266cc9a73e9269
+1212	1337	1715798319229818830	Week8_Inclass_Project__Codes	1474d023554afb88
