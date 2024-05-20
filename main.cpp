@@ -10,6 +10,7 @@ int main() {
     employee1.addTag("ABC123");
     employee1.addTag("EFG456");
     employee1.addTag("IJK789");
+    employee1.addTag("XYZ456");
 
     std::cout << "Employee: " << employee1.getName() << std::endl;
     std::cout << "Assigned Tags: ";
